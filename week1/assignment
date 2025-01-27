@@ -1,1 +1,8 @@
+--1)
+
+winpty docker run -it python:3.9.1 bash
+pip list
+
+---pip             24.3.1
+
 
